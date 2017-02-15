@@ -1,0 +1,5 @@
+D:\Work space\Mike's\6 POC Project\EasyNetQTest\Messages\bin\Debug\Messages.dll
+D:\Work space\Mike's\6 POC Project\EasyNetQTest\Messages\bin\Debug\Messages.pdb
+D:\Work space\Mike's\6 POC Project\EasyNetQTest\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+D:\Work space\Mike's\6 POC Project\EasyNetQTest\Messages\obj\Debug\Messages.dll
+D:\Work space\Mike's\6 POC Project\EasyNetQTest\Messages\obj\Debug\Messages.pdb

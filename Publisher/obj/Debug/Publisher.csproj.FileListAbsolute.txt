@@ -1,0 +1,15 @@
+D:\Work space\Mike's\6 POC Project\EasyNetQTest\Publisher\bin\Debug\EasyNetQTest.exe.config
+D:\Work space\Mike's\6 POC Project\EasyNetQTest\Publisher\bin\Debug\EasyNetQTest.exe
+D:\Work space\Mike's\6 POC Project\EasyNetQTest\Publisher\bin\Debug\EasyNetQTest.pdb
+D:\Work space\Mike's\6 POC Project\EasyNetQTest\Publisher\bin\Debug\EasyNetQ.dll
+D:\Work space\Mike's\6 POC Project\EasyNetQTest\Publisher\bin\Debug\Messages.dll
+D:\Work space\Mike's\6 POC Project\EasyNetQTest\Publisher\bin\Debug\RabbitMQ.Client.dll
+D:\Work space\Mike's\6 POC Project\EasyNetQTest\Publisher\bin\Debug\Messages.pdb
+D:\Work space\Mike's\6 POC Project\EasyNetQTest\Publisher\bin\Debug\EasyNetQ.xml
+D:\Work space\Mike's\6 POC Project\EasyNetQTest\Publisher\bin\Debug\RabbitMQ.Client.xml
+D:\Work space\Mike's\6 POC Project\EasyNetQTest\Publisher\obj\Debug\Publisher.csprojResolveAssemblyReference.cache
+D:\Work space\Mike's\6 POC Project\EasyNetQTest\Publisher\obj\Debug\EasyNetQTest.exe
+D:\Work space\Mike's\6 POC Project\EasyNetQTest\Publisher\obj\Debug\EasyNetQTest.pdb
+D:\Work space\Mike's\_Git\EasyNetQTest\Publisher\bin\Debug\EasyNetQTest.exe.config
+D:\Work space\Mike's\_Git\EasyNetQTest\Publisher\obj\Debug\EasyNetQTest.exe
+D:\Work space\Mike's\_Git\EasyNetQTest\Publisher\obj\Debug\EasyNetQTest.pdb
